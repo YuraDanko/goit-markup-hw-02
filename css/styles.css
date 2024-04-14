@@ -78,9 +78,6 @@ button {
     background: #404bbf;
 }
 /* BENEFITS */
-.benefits {
-    display: none;
-}
 .benefits-title {
     font-weight: 500;
     font-size: 20px;
